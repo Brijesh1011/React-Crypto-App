@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.grid-cols-custom {
+    grid-template-columns: 0.5fr 2fr 1fr 12rem 18rem; /* Custom column widths */
+}
